@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-
+   
 	//slice is an flexible array
 
 	numbers := []int{1, 2, 3, 4}
@@ -20,3 +20,4 @@ func main() {
 
 
 }
+  
