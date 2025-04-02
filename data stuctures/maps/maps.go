@@ -65,7 +65,7 @@ func getCount(userIds []string) map[string]int {
 }
 
 func main() {
-
+  
 	students := map[string]int{
 		"chamod": 10,
 		"udara":  20,
